@@ -3,7 +3,7 @@
 - 🔭 I’m currently a `Web Dev Programmer`
 - 🌱 I’m currently learning Golang and Python
 - 🪶 Technology Enthusiast
-- 📫 Reach me on [Twitter`(ellipse_120)`](https://twitter.com/ellipse_120)
+- 📫 Reach me on [`Twitter`](https://twitter.com/ellipse_120) or [`Mas`](https://mas.to/web/@Ellipse120)
 - 👨‍💻 You can contact me on `ellipse120@gmail.com`
 <h3 align="center">Languages</h3>
 <table align="center">
