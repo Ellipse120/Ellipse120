@@ -1,7 +1,7 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=ellipse120&show_icons=true)
 
-- 🔭 I’m currently a `Web Dev Programmer`
-- 🌱 I’m currently learning Golang and Python
+- 🔭 I’m currently a `Web Developer`
+- 🌱 I’m currently learning new lang, the `Rust`
 - 🪶 Technology Enthusiast
 - 📫 Reach me on [`Twitter`](https://twitter.com/ellipse_120) or [`Mas`](https://mas.to/web/@Ellipse120)
 - 👨‍💻 You can contact me on `ellipse120@gmail.com`
