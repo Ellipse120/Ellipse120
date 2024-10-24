@@ -1,4 +1,3 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=ellipse120&show_icons=true)
 
 - 🔭 I’m currently a `Web Developer`
 - 🪶 Technology Enthusiast
