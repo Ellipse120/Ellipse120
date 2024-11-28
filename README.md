@@ -1,7 +1,7 @@
 
 - 🔭 I’m currently a `Web Developer`
 - 🪶 Technology Enthusiast
-- 📫 Reach me on [X](https://x.com/ellipse_120) or [`Mas`](https://mas.to/web/@Ellipse120)
+- 📫 Reach me on [🦋](https://bsky.app/profile/ellipse120.bsky.social), [X](https://x.com/ellipse_120) or [`Mas`](https://mas.to/web/@Ellipse120)
 - 👨‍💻 You can contact me on `ellipse120@gmail.com`
 <h3 align="center">Languages</h3>
 <table align="center">
